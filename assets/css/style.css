@@ -1829,7 +1829,7 @@ footer a:hover {
         content: '';
         width: 40px;
         height: 3px;
-        background-color: #fecd0d;
+        background-color: #0c0b09;
         position: absolute;
         top: 22px;
         transform-origin: center;
@@ -1837,7 +1837,7 @@ footer a:hover {
     .toggle-bar span {
         width: 40px;
         height: 3px;
-        background-color: #fecd0d;
+        background-color: #0f0f0c;
         position: absolute;
         top: 6px;
         margin: auto;
@@ -1846,7 +1846,7 @@ footer a:hover {
         content: '';
         width: 40px;
         height: 3px;
-        background-color: #fecd0d;
+        background-color: #0e0d0c;
         position: absolute;
         top: 14px;
         transform-origin: center;
